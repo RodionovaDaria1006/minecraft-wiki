@@ -1,0 +1,17 @@
+button{background-color: rgb(192, 247, 104); 
+font-size: 50px;
+padding: 20px;
+border: 15px;
+box-shadow: 3px 3px 3px gray;
+cursor: pointer;
+border-radius: 20px;
+}
+
+button:active {display: flex;
+justify-content: center;
+align-items: center;
+width: 20%;
+height: 100%;
+border: none;
+animation: animation 5s linear infinite;
+background-size: ;}
